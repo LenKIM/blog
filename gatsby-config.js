@@ -32,11 +32,11 @@ module.exports = {
     ],
   },
   plugins: [
-    {resolve: `gatsby-plugin-google-analytics`,
-      options: {
+    // {resolve: `gatsby-plugin-google-analytics`,
+    //   options: {
         // The property ID; the tracking code won't be generated without it
-      trackingId: "YOUR_GOOGLE_ANALYTICS_TRACKING_ID"}
-    },
+      // trackingId: "YOUR_GOOGLE_ANALYTICS_TRACKING_ID"}
+    // },
     {
       resolve: "@narative/gatsby-theme-novela",
       options: {
@@ -50,12 +50,12 @@ module.exports = {
         },
       },
     },
-    {
-      siteMetadata: {
-        siteUrl: `https://www.example.com`,
-      },
-      plugins: [`gatsby-plugin-sitemap`]
-    },
+    // {
+    //   siteMetadata: {
+    //     siteUrl: `https://www.example.com`,
+    //   },
+    //   plugins: [`gatsby-plugin-sitemap`]
+    // },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

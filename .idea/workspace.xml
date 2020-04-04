@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd7be1af-55c3-4ea0-a6af-ad36a2699353" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/bbb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/authors/avatars/dennis-brotzky.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/authors/avatars/thiago-costa.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/authors/avatars/len.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/authors/dennis-brotzky.yml" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/authors/len.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/authors/thiago-costa.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/2020-01-01-my-first-post-using-novela-by-narative/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/2020-01-01-my-first-post-using-novela-by-narative/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="fd7be1af-55c3-4ea0-a6af-ad36a2699353" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -26,27 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/posts/2020-01-01-my-first-post-using-novela-by-narative/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="27">
-                <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/admin/config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-724">
-              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/posts/2020-01-01-my-first-post-using-novela-by-narative/images/hero.jpg">
           <provider selected="true" editor-type-id="images" />
@@ -91,6 +57,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gatsby-config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="37" column="54" lean-forward="true" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1458" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/authors/authors/len.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
@@ -100,12 +82,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gatsby-config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/content/authors/authors/avatars/len.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -283,18 +261,17 @@
       <option name="presentableId" value="Default" />
       <updated>1585986197334</updated>
       <workItem from="1585986198688" duration="231000" />
-      <workItem from="1585986436013" duration="2348000" />
+      <workItem from="1585986436013" duration="3481000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2579000" />
+    <option name="totallyTimeSpent" value="3712000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -306,10 +283,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32908705" />
       <window_info anchor="bottom" id="GraphQL" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32908705" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32908705" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -340,9 +317,6 @@
           <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/favicon.png">
       <provider selected="true" editor-type-id="images" />
@@ -404,8 +378,17 @@
         <state relative-caret-position="-626" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/authors/authors/avatars/len.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/gatsby-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="37" column="54" lean-forward="true" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1458" />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/authors/authors/len.yml">
       <provider selected="true" editor-type-id="text-editor">
@@ -414,12 +397,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gatsby-config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/content/authors/authors/avatars/len.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
