@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://novela.narative.co`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Awesome x 1236782222`,
       maxWidth: 652,
     },
     social: [
@@ -32,6 +32,11 @@ module.exports = {
     ],
   },
   plugins: [
+    {resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        // The property ID; the tracking code won't be generated without it
+      trackingId: "YOUR_GOOGLE_ANALYTICS_TRACKING_ID"}
+    },
     {
       resolve: "@narative/gatsby-theme-novela",
       options: {
@@ -44,6 +49,12 @@ module.exports = {
           // contentful: true,
         },
       },
+    },
+    {
+      siteMetadata: {
+        siteUrl: `https://www.example.com`,
+      },
+      plugins: [`gatsby-plugin-sitemap`]
     },
     {
       resolve: `gatsby-plugin-manifest`,
